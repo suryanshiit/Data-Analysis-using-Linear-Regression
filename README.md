@@ -10,13 +10,13 @@
 
 · Developed Epsilon parameter, to define permissible wick intersections, enhancing the precision of the analysis
 
-Implementing the code
+✤ Implementing the code
 
 The code is available at Data_Analysis_using_Linear_Regression.ipynb and can be implemented on colab
 
 The Requirements are available in requirements.txt
 
-Instructions for Running Program
+✤ Instructions for Running Program
 
 Enter the Name of CrytoCurrency (Symbol) and Duration of Analysis in input.txt
 
