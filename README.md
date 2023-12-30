@@ -23,3 +23,5 @@ Enter the Name of CrytoCurrency (Symbol) and Duration of Analysis in input.txt
 -- Example has been provided for reference
 
 Now Run the Data_Analysis_using_Linear_Regression.ipynb
+-- Output
+![image](./download.png)
